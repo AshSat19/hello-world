@@ -1,2 +1,3 @@
 # hello-world
 This is my first GitHub Repository
+Let's see. I gotta write about... myself ? Oh that's so boring...
